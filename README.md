@@ -38,9 +38,7 @@ git clone https://github.com/Shiba-2-shiba/WanImageToVideoSimpler.git
 
 以下の記事で経緯や使用方法について記載していますので参考にしてください。
 
-
-Please refer to the following article describing the background and usage in Japanese.
-
+https://note.com/gentle_murre488/n/n81177ffc530b
 
 
 ---
