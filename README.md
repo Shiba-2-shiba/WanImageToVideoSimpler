@@ -33,7 +33,11 @@ git clone https://github.com/Shiba-2-shiba/WanImageToVideoSimpler.git
 ```
 
 ## Usage
+
+ワークフローで、使用例を提示しています。使用している画像もwebp画像としてアップロードしています。
+
 以下の記事で経緯や使用方法について記載していますので参考にしてください。
+
 
 Please refer to the following article describing the background and usage in Japanese.
 
