@@ -15,10 +15,9 @@ FLUXやHunyuanVideoと同様にadvanced custum samplerで生成することが�
 下記のように、Input部がpotiveのみになり、conditioningとclipvisionのウェイトを設定できます。
 
 
-![FreeU_V2_timestepadd](https://github.com/Shiba-2-shiba/ComfyUI_FreeU/blob/main/img1.png)
+![WanImageToVideo](https://github.com/Shiba-2-shiba/WanImageToVideoSimpler/blob/main/img1.png)
 
 
----
 ## Install
 
 
