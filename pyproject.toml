@@ -1,0 +1,14 @@
+[project]
+name = "WanImageToVideoSimpler"
+description = "This is a custom node to make simpler WanImageToVideo."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/Shiba-2-shiba/WanImageToVideoSimpler"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "shiba2shiba"
+DisplayName = "WanImageToVideoSimpler"
+Icon = ""
